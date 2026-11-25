@@ -1,0 +1,10 @@
+{
+  "InstallerId": "LearningDeck",
+  "Name": "Learning Deck",
+  "PluginId": "com.windowstoolkit.learning",
+  "PluginFolder": "learning",
+  "Profile": "profiles/LearningDeck",
+  "Version": "1.0.0.0",
+  "Repository": "nikhilgs817/streamdeck_niharika",
+  "RetiredPluginIds": []
+}

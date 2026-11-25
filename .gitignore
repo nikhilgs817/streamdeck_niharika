@@ -1,0 +1,14 @@
+node_modules/
+dist/
+test-output/
+plugins/*/*.sdPlugin/
+plugins/*/.profile-build/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.streamDeckProfile
+*.streamDeckPlugin
+*.zip
+__pycache__/
